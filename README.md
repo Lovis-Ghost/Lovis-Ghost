@@ -1,21 +1,15 @@
-## Hi there 👋
-
-<!--
-**Lovis-Ghost/Lovis-Ghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-# Hi, I'm Lovis 👋
+# 👋 Hi, I'm Lovis
 
 🎓 Master Student in Artificial Intelligence  
 📍 Malaysia  
 
 ---
 
-## 🌐 Language
+## 🧠 About Me
 
-- 🇺🇸 English
-- 🇨🇳 中文版 (Coming Soon)
+- AI & Data Science student
+- Interested in Machine Learning and Data Mining
+- Currently learning Advanced Artificial Intelligence
 
 ---
 
@@ -43,8 +37,8 @@ Tools
 ### AI Image Classifier
 CNN model using PyTorch
 
-### Data Mining Project
-Customer segmentation using K-means
+### Customer Segmentation
+K-means clustering data mining project
 
 ### Algorithm Practice
 LeetCode algorithm solutions
@@ -53,6 +47,4 @@ LeetCode algorithm solutions
 
 ## 📫 Contact
 
-Email:   
-LinkedIn: 
--->
+Email: your@email.com
