@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Lovis
 
-🎓 Master Student in Artificial Intelligence  
-📍 Malaysia  
+🎓 Master of Artificial Intelligence  
 
 ---
 
