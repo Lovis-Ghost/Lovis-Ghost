@@ -5,12 +5,54 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Lovis 👋
+
+🎓 Master Student in Artificial Intelligence  
+📍 Malaysia  
+
+---
+
+## 🌐 Language
+
+- 🇺🇸 English
+- 🇨🇳 中文版 (Coming Soon)
+
+---
+
+## 💻 Skills
+
+Programming
+- Python
+- SQL
+- Java
+
+AI / Data Science
+- Machine Learning
+- Deep Learning
+- Data Mining
+
+Tools
+- Git
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 🚀 Projects
+
+### AI Image Classifier
+CNN model using PyTorch
+
+### Data Mining Project
+Customer segmentation using K-means
+
+### Algorithm Practice
+LeetCode algorithm solutions
+
+---
+
+## 📫 Contact
+
+Email:   
+LinkedIn: 
 -->
