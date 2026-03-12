@@ -48,3 +48,7 @@ LeetCode algorithm solutions
 ## 📫 Contact
 
 Email: chengenxu09@gmail.com
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lovis-Ghost&show_icons=true)
