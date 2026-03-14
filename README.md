@@ -1,39 +1,34 @@
-# Hi 👋 I'm Lovis
+# Hi there 👋
 
-🎓 AI Student at Universiti Kebangsaan Malaysia (UKM)  
-🤖 Interested in Machine Learning, Deep Learning and Data Mining  
-📊 Passionate about AI applications and data-driven solutions  
-🌱 Currently learning Python, Machine Learning and AI Engineering
+I'm Lovis.
 
----
-
-Python  NumPy  PyTorch  Git  VSCode
-
-
----
-## 🚀 Projects
-
-### 🧠 AI Image Classifier
-CNN model built with PyTorch to classify images.
-
-Tech: Python, PyTorch, CNN
-
-### 📊 Customer Segmentation
-K-means clustering for customer behavior analysis.
-
-Tech: Python, Scikit-learn, Pandas
-
-### 💻 Algorithm Practice
-Collection of LeetCode algorithm solutions.
-
-Tech: Java / Python
+🎓 Artificial Intelligence student at UKM  
+💻 Currently learning Python and Machine Learning  
 
 ---
 
-## 📫 Contact
+## 🚀 Skills
 
-Email: chengenxu09@gmail.com
+- Python
+- Data Analysis
+- Machine Learning (learning)
 
-## 📊 GitHub Stats
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lovis-Ghost&show_icons=true)
+## 📚 Current Learning
+
+- Python basics
+- Data structures
+- Machine learning fundamentals
+
+---
+
+## 📂 Projects
+
+- Python Learning Notes
+
+---
+
+## 🌱 Goals
+
+Become an AI engineer and build useful AI tools.
