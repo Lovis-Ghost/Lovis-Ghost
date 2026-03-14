@@ -1,46 +1,32 @@
-# 👋 Hi, I'm Lovis
+# Hi 👋 I'm Lovis
 
-🎓 Master of Artificial Intelligence  
-
----
-
-## 🧠 About Me
-
-- AI & Data Science student
-- Interested in Machine Learning and Data Mining
-- Currently learning Advanced Artificial Intelligence
+🎓 AI Student at Universiti Kebangsaan Malaysia (UKM)  
+🤖 Interested in Machine Learning, Deep Learning and Data Mining  
+📊 Passionate about AI applications and data-driven solutions  
+🌱 Currently learning Python, Machine Learning and AI Engineering
 
 ---
 
-## 💻 Skills
+Python  NumPy  PyTorch  Git  VSCode
 
-Programming
-- Python
-- SQL
-- Java
-
-AI / Data Science
-- Machine Learning
-- Deep Learning
-- Data Mining
-
-Tools
-- Git
-- VS Code
-- Jupyter Notebook
 
 ---
-
 ## 🚀 Projects
 
-### AI Image Classifier
-CNN model using PyTorch
+### 🧠 AI Image Classifier
+CNN model built with PyTorch to classify images.
 
-### Customer Segmentation
-K-means clustering data mining project
+Tech: Python, PyTorch, CNN
 
-### Algorithm Practice
-LeetCode algorithm solutions
+### 📊 Customer Segmentation
+K-means clustering for customer behavior analysis.
+
+Tech: Python, Scikit-learn, Pandas
+
+### 💻 Algorithm Practice
+Collection of LeetCode algorithm solutions.
+
+Tech: Java / Python
 
 ---
 
