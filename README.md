@@ -1,16 +1,16 @@
 # Hi, I'm Lovis 👋
 
-Master of Artificial Intelligence student at Universiti Kebangsaan Malaysia, preparing for AI, Data Science, and Machine Learning internship opportunities.
+Master of Artificial Intelligence student at Universiti Kebangsaan Malaysia, preparing for AI, Data Science, Machine Learning, and AI Agent internship opportunities.
 
-I am currently building a strong foundation in Python, machine learning, data analysis, Git, GitHub, and algorithms through coursework, projects, and consistent practice.
+I am currently building practical AI and data projects using Python, Streamlit, pandas, scikit-learn, Git, GitHub, and LLM APIs, while strengthening my foundation in algorithms, data structures, and machine learning.
 
 ---
 
 ## About Me
 
 - 🎓 Master of Artificial Intelligence student at Universiti Kebangsaan Malaysia
-- 💡 Interested in AI, Data Science, Machine Learning, and practical problem solving
-- 📊 Learning how to work with data, build simple models, and evaluate results clearly
+- 💡 Interested in AI Agents, Machine Learning, Data Science, and practical problem solving
+- 📊 Building hands-on projects that connect data analysis, model training, deployment, and reporting
 - 🧠 Developing my understanding of algorithms, data structures, and research-based AI topics
 - 🚀 Preparing for internship roles where I can learn, contribute, and grow professionally
 
@@ -19,16 +19,42 @@ I am currently building a strong foundation in Python, machine learning, data an
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## Featured Projects
+## Featured Project
+
+### AI Data Analysis & ML Agent
+
+An end-to-end Streamlit application for automated CSV/Excel dataset analysis, data quality assessment, AI-assisted insights, baseline machine learning training, model download, prediction demo, and Markdown/Word/PDF report generation.
+
+**Live Demo:** https://ai-data-analysis-ml-agent.streamlit.app  
+**GitHub Repo:** https://github.com/Lovis-Ghost/ai-data-analysis-ml-agent
+
+**Key Features:**
+
+- Automated CSV/Excel dataset profiling and data quality checking
+- Smart column detection for numerical, categorical, and ID-like features
+- Optional OpenAI/Gemini AI-assisted insights with fallback support
+- Baseline classification and regression model training using scikit-learn Pipelines
+- Model evaluation, best model selection, model download, and prediction demo
+- Markdown, Word, and PDF report export
+- Modular Python project structure with example dataset, screenshots, and technical documentation
+
+**Tech Stack:** Python, Streamlit, pandas, NumPy, scikit-learn, matplotlib, OpenAI API, Gemini API, python-docx, ReportLab
+
+---
+
+## Other Projects and Learning Areas
 
 ### Customer Churn Prediction
 
@@ -58,11 +84,12 @@ A learning practice project for improving problem-solving skills through algorit
 
 ## Currently Learning
 
-- Python programming
-- Machine learning fundamentals
-- Data analysis with pandas
-- Model evaluation and basic experimentation
-- Git and GitHub workflow
+- Python programming and modular project development
+- Machine learning fundamentals and model evaluation
+- Data analysis with pandas and visualization tools
+- Streamlit app development and deployment
+- LLM-assisted applications and AI agent workflows
+- Git, GitHub, and portfolio project documentation
 - Algorithms and data structures
 
 ---
@@ -70,4 +97,4 @@ A learning practice project for improving problem-solving skills through algorit
 ## Contact
 
 - GitHub: [@Lovis-Ghost](https://github.com/Lovis-Ghost)
-- Currently open to AI, Data Science, and Machine Learning internship opportunities
+- Currently open to AI, Data Science, Machine Learning, and AI Agent internship opportunities
