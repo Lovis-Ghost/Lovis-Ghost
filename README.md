@@ -31,7 +31,7 @@ I am currently building practical AI and data projects using Python, Streamlit, 
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### AI Data Analysis & ML Agent
 
@@ -52,9 +52,27 @@ An end-to-end Streamlit application for automated CSV/Excel dataset analysis, da
 
 **Tech Stack:** Python, Streamlit, pandas, NumPy, scikit-learn, matplotlib, OpenAI API, Gemini API, python-docx, ReportLab
 
+### AutoML Experiment Lab
+
+A Streamlit-based AutoML-style machine learning experiment platform that supports CSV upload, automatic preprocessing, classification and regression model comparison, model leaderboard, visualization, markdown report download, single-row prediction, and best model export.
+
+**GitHub Repo:** https://github.com/Lovis-Ghost/automl-experiment-lab
+
+**Key Features:**
+
+- CSV upload and built-in sample datasets
+- Automatic numeric and categorical feature preprocessing
+- Classification and regression model training
+- Model leaderboard based on F1-score or R2 score
+- Best model saving with metadata
+- Markdown experiment report download
+- Single-row prediction demo
+
+**Tech Stack:** Python, Streamlit, pandas, NumPy, scikit-learn, Matplotlib, Joblib
+
 ---
 
-## Other Projects and Learning Areas
+## Additional Projects
 
 ### Customer Churn Prediction
 
@@ -82,15 +100,14 @@ A learning practice project for improving problem-solving skills through algorit
 
 ---
 
-## Currently Learning
+## Current Focus
 
-- Python programming and modular project development
-- Machine learning fundamentals and model evaluation
-- Data analysis with pandas and visualization tools
-- Streamlit app development and deployment
-- LLM-assisted applications and AI agent workflows
-- Git, GitHub, and portfolio project documentation
-- Algorithms and data structures
+- Building portfolio projects that combine data analysis, machine learning pipelines, model evaluation, and user-facing Streamlit interfaces
+- Improving practical machine learning workflows, including preprocessing, classification, regression, evaluation metrics, and model export
+- Developing AI-assisted applications and agent-style workflows using LLM APIs with clear fallback behavior and readable documentation
+- Strengthening pandas, NumPy, scikit-learn, visualization, and Git/GitHub skills through complete, documented projects
+- Practicing algorithms and data structures to support technical interviews and stronger software development fundamentals
+- Connecting academic AI research topics with practical projects, especially trustworthy AI, hallucination, RAG, and factual consistency
 
 ---
 
